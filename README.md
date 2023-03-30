@@ -1,6 +1,11 @@
 # bike-sharing-linear-regression
 
+## Tools and Technology used:
+[![MATPLOTLIB](https://img.shields.io/badge/-MATPLOTLIB-007aa6?style=for-the-badge)](https://img.shields.io/badge/-MATPLOTLIB-007aa6?style=for-the-badge) [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) [![Jupyter](https://img.shields.io/badge/-Jupyter-f5841f?style=for-the-badge)](https://img.shields.io/badge/-Jupyter-f5841f?style=for-the-badge) [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) <a href="https://seaborn.pydata.org/" rel="nofollow"><img alt="SEABORN" src="https://img.shields.io/badge/-SEABORN-f5841f?style=for-the-badge" data-canonical-src="https://img.shields.io/badge/-SEABORN-f5841f?style=for-the-badge" style="max-width: 100%;"/></a> <a href="https://www.investopedia.com/terms/r/regression.asp" rel="nofollow"><img alt="Regression" src="https://img.shields.io/badge/-Regression-007aa6?style=for-the-badge" data-canonical-src="https://img.shields.io/badge/-Regression-007aa6?style=for-the-badge" style="max-width: 100%;"/></a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" rel="nofollow"><img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" data-canonical-src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="max-width: 100%;"/></a>
+
 ## Problem Statement
+
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
 
@@ -19,3 +24,16 @@ Based on various meteorological surveys and people's styles, the service provide
 
 ## Business Goal:
 You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
+
+
+
+## Conclusion:
+- Temperature (temp) - A coefficient value of ‘0.63’ indicated that increase in Temperature increases the bike hire numbers.
+
+- season 1(spring) - A coefficient value of ‘-0.56’ indicated that, w.r.t spring, a unit increase in spring variable decreases the bike hire numbers by 0.3070 units.
+
+- Year (yr) - A coefficient value of ‘0.56’ indicated that a unit increase in yr variable increases
+
+- Bike hiring in increasing year by year
+
+- During the mist weather type day few offers can be made to increases the bike hiring
